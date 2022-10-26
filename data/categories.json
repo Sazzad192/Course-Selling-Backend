@@ -1,0 +1,32 @@
+[
+    {
+        "id": "01",
+        "cat_name":"Web Development(Font-End)",
+        "picture" : "https://i.ibb.co/gWWHpBk/font-end.jpg"
+    },
+    {
+        "id": "02",
+        "cat_name":"Web Development(Back-End)",
+        "picture" : "https://i.ibb.co/NZJ9G08/backend.png"
+    },
+    {
+        "id": "03",
+        "cat_name":"Web Development(Full-Stack)",
+        "picture" : "https://i.ibb.co/t8MZxHW/full-stack-development.png"
+    },
+    {
+        "id": "04",
+        "cat_name":"Programming",
+        "picture" : "https://i.ibb.co/5nGQbP8/programming.png"
+    },
+    {
+        "id": "05",
+        "cat_name":"DevOps",
+        "picture" : "https://i.ibb.co/nrZmmSr/devops.jpg"
+    },
+    {
+        "id": "06",
+        "cat_name":"Data Science & Python",
+        "picture" : "https://i.ibb.co/rpQYf79/data-python.jpg"
+    }
+]
