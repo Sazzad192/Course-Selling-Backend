@@ -12,8 +12,10 @@ app.get('/', (req, res) => {
 })
 
 app.get('/categories', (req, res)=>{
-    res.send(categories);
+    res.send(categories)
 })
+
+
 
 app.listen(port, () => {
   console.log(`Example app listening on port ${port}`)
