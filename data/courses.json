@@ -1,0 +1,111 @@
+[
+    {
+        "id":"0000035",
+        "cat_id":"01",
+        "name":"HTML & CSS",
+        "details":"Font End very basic part",
+        "topic":["HTML","CSS", "BootStrap", "Tailwind"],
+        "instractor_name":"Golam Ahsan",
+        "startDate":"30-02-2023",
+        "courseDuration":"1",
+        "price" : "2000",
+        "picture":"https://i.ibb.co/zfn6fFg/what-is-html-3.jpg"
+    },
+    
+    {
+        "id":"0000034",
+        "cat_id":"01",
+        "name":"JavaScript",
+        "details":"Font End very basic part",
+        "topic":[ "JS ES-6","Array","Object", "DOM", "BOM", "Debug"],
+        "instractor_name":"Nyme-Ahmed",
+        "startDate":"30-03-2023",
+        "courseDuration":"1",
+        "price" : "2000",
+        "picture":"https://i.ibb.co/qJLXwSF/javascript-1567486564472.jpg"
+    },
+    {
+        "id":"0000033",
+        "cat_id":"01",
+        "name":"React",
+        "details":"Font End basic to advance",
+        "topic":["Router","Hook", "object-load", "Folder-stracture", "Firebase Authentication"],
+        "instractor_name":"Sazzadul Islam",
+        "startDate":"30-04-2023",
+        "courseDuration":"1",
+        "price" : "3000",
+        "picture":"https://i.ibb.co/5YcX7dL/reactjs.png"
+    },
+    {
+        "id":"0000030",
+        "cat_id":"02",
+        "name":"Node.JS",
+        "details":"Back End basic to advance",
+        "topic":[ "API","Express.js", "JSON data", "Mongodb" ],
+        "instractor_name":"Sazzadul Islam",
+        "startDate":"30-05-2023",
+        "courseDuration":"1",
+        "price" : "3500",
+        "picture":"https://i.ibb.co/wLNQ9m7/node.jpg"
+    },
+    {
+        "id":"0000025",
+        "cat_id":"04",
+        "name":"C & C++",
+        "details":"Font End basic to advance",
+        "topic":["Array", "Loop", "Conditions", "Problem Solving"],
+        "instractor_name":"Syed Khoab",
+        "startDate":"30-03-2023",
+        "courseDuration":"1",
+        "price" : "2000",
+        "picture":"https://i.ibb.co/dMpzQhT/c.jpg"
+    },
+    {
+        "id":"0000020",
+        "cat_id":"05",
+        "name":"Software Development and Life Cycle",
+        "details":"Basic to advance",
+        "topic":["SDLC Models", "Time analysis", "Project document"],
+        "instractor_name":"Sazzadul Islam",
+        "startDate":"30-03-2023",
+        "courseDuration":"1",
+        "price" : "1500",
+        "picture":"https://i.ibb.co/DbdGcqj/sdlc.png"
+    },
+    {
+        "id":"0000019",
+        "cat_id":"05",
+        "name":"Amazon Web Server",
+        "details":"Basic to advance",
+        "topic":["Fetch", "Authentications", "Varifications", "Web server management"],
+        "instractor_name":"Sazzadul Islam",
+        "startDate":"30-03-2023",
+        "courseDuration":"1",
+        "price" : "2000",
+        "picture":"https://i.ibb.co/X2vh1tZ/AES.png"
+    },
+    {
+        "id":"0000015",
+        "cat_id":"06",
+        "name":"Data Mining",
+        "details":"Basic to advance",
+        "topic":["Weka", "Data mining Algorithams", "Data Sorting"],
+        "instractor_name":"Rifat",
+        "startDate":"30-03-2023",
+        "courseDuration":"1",
+        "price" : "2000",
+        "picture":"https://i.ibb.co/Pg4NJRq/data-mining-with-weka.jpg"
+    },
+    {
+        "id":"0000014",
+        "cat_id":"06",
+        "name":"Python",
+        "details":"Basic to advance",
+        "topic":["Language","uses in DM"],
+        "instractor_name":"Shifat",
+        "startDate":"30-03-2023",
+        "courseDuration":"1",
+        "price" : "2000",
+        "picture":"https://i.ibb.co/2q91YCh/python.png"
+    }
+]
